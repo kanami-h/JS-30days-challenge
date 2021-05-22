@@ -1,4 +1,4 @@
-# JS-30days-challenge
+# JS-30day-challenge
 
 ### Day 1 Drum Kit
 
